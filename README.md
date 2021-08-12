@@ -1,2 +1,2 @@
-# PPG-IINELS
-Fund. Programação
+# Fund. Programação
+PPG-IINELS
